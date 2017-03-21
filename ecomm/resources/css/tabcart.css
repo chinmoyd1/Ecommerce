@@ -1,0 +1,13 @@
+th.pic {padding-right: 280px;}
+
+table.table0 td{
+     
+    border-bottom:1px solid #C7C7C7;
+    font-size: 18px;
+    
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+#cart{position: absolute; z-index: 2;cursor: pointer;top:38px;right:123px;}
