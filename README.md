@@ -1,5 +1,5 @@
 # Ecommerce
-It server side script for a fully functional ecommerce website. 
+#This project is a server side script for a fully functional ecommerce website. 
 
 QUICKSTART
 
